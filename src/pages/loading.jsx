@@ -6,7 +6,7 @@ import SplitText from '../components/titleComponent'
 
 function Loading() {
 
-    const [isDecrypted, setIsDecrypted] = useState(true)
+    const [isDecrypted, setIsDecrypted] = useState(false)
 
     useEffect(() => {
         setTimeout(() => {
