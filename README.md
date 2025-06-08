@@ -1,8 +1,38 @@
-# React + Vite
+# 💘 Valentine's Day Project – Made with React + Vite + Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a sweet little project made to celebrate **Valentine’s Day** 💝.  
+It’s built with **React**, powered by **Vite** for fast development, and styled with **Tailwind CSS** for a modern and responsive look.
 
-Currently, two official plugins are available:
+Whether you're sending a digital card, showing an animation, or building something interactive and romantic — this project brings love and code together 💌.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🌟 Features
+
+- 💌 Custom animated messages
+- 🌸 Cute responsive UI design
+- 💖 Smooth transitions and effects
+- 🎨 Tailwind-powered styling for quick edits
+- ⚡️ Ultra-fast build and reload with Vite
+
+---
+
+## 🔧 Tech Stack
+
+| Tech        | Role                            |
+|-------------|---------------------------------|
+| React       | UI framework                    |
+| Vite        | Development/build tooling       |
+| Tailwind CSS| Styling and layout              |
+
+---
+
+## 🚀 Getting Started
+
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/ANavas07/valentines-project.git
+cd valentines-project
+npm install
+npm run dev
